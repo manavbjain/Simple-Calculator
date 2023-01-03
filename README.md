@@ -1,2 +1,2 @@
 # Scientific-Calculator
-An online version of a scientific calculator.
+A pythonic implementation of a scientific calculator, usabe through the command line. 
