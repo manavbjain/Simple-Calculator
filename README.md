@@ -2,10 +2,10 @@
 A pythonic implementation of a simple calculator, usable through the command line. This program does not employ the use of the Python math library.
 
 ## Usage
-./calculator.py -operation input1 input2
+```./calculator.py -operation input1 input2```
 
 ## Help
-./calculator.py -h, --help
+```./calculator.py -h, --help```
 
 ## Features 
 1. Add
