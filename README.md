@@ -8,10 +8,10 @@ A pythonic implementation of a simple calculator, usable through the command lin
 ```./calculator.py -h, --help```
 
 ## Features 
-1. Add
-2. Subtract
-3. Multiply
-4. Divide
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
 5. Exponent
 6. Root (square and cube)
 7. Factorial
